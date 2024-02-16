@@ -73,4 +73,12 @@ body {
 .c {
   text-align: center;
 }
+
+hr {
+  padding: 20px 0;
+  border: none;
+}
+.hr3 {
+  border-top: 20px solid #000;
+}
   
